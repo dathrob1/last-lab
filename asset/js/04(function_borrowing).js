@@ -63,5 +63,5 @@ function usingBind() {
     //2. Pass bind_demo[as ui_place] , Hi I am ,[as message]
     let newFun = Brad.fullName.bind(Daenerys, bind_demo, 'Hi I am ')
     newFun()
-
+    .
 }
